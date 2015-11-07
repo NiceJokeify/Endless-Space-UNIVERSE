@@ -58,8 +58,7 @@ NITRO TANK:
 ![redship](https://github.com/NiceJokeify/Endless-Space-UNIVERSE/blob/master/imgs/nitro.png "nitro")
 
 # Summary
-
-Making this project was a great thing for me, I've learned about many different things while working on it. 
+Making the project was a great experience for me, I've learned about many different things while working on it and that there is no limit to what you want to do. There is always a way to implement certain logic into the game. 
 One of the main things that made me "wow" was the Delta Timing I've spent on ages. 
 Thanks to the Stack Overflow users and few other websites. 
 Special thanks to Akash from CodeAcademy.
