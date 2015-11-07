@@ -59,9 +59,10 @@ NITRO TANK:
 
 # Summary
 
-Making this project was a great thing for me, I've learned about many different things while writing it. 
+Making this project was a great thing for me, I've learned about many different things while working on it. 
 One of the main things that made me "wow" was the Delta Timing I've spent on ages. 
 Thanks to the Stack Overflow users and few other websites. 
+Special thanks to Akash from CodeAcademy.
 
 
 
