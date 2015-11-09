@@ -25,6 +25,9 @@ window.onload = function(){
 
 	var past = Date.now();
 	ctx.beginPath();
+	
+	//forgot to add comment
+	//this is just the starting screen outlining rules, instructions and how to start the game
 	ctx.fillStyle = "rgba(255, 255, 255, 0.4)";
 	ctx.rect(0,0, canvas.width, canvas.height);
 	ctx.fill();
@@ -106,6 +109,8 @@ nitroImg.onload = function(){
 	nitroReady = true;
 };
 nitroImg.src = "imgs/nitro.png";
+
+
 //blueWinImg
 var blueWinImg = new Image();
 blueWinImg.onload = function(){
